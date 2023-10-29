@@ -5,8 +5,6 @@
 #include <errno.h>
 #include <error.h>
 #include <unistd.h>
-
-
 #include "bios.h"
 
 
